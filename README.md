@@ -13,7 +13,7 @@ In this repository, I tried to dedicate a single project for each chapter in the
 
    * **Chapter 3: Intensity Transformation and Spatial Filtering**
        * (***Section 3.2***)Some Basic Intensity Transformation Functions
-              * Image Negatives              
+        * Image Negatives              
               * Power-Law (Gamma) Transformation
               * Piecewise Linear Transformation Functions
                      * Contrast Stretching
