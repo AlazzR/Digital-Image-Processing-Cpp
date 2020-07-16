@@ -1,0 +1,10 @@
+^C:\USERS\USER\DESKTOP\C++_CODES\OPENCV_PROJECTS\CHAPTER_3_INTENSITY_TRANSFORMATION_AND_SPATIAL_FILTERING\BUILD\CMAKEFILES\299DCB86AB256F7E71526264CD7B3EFE\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/USER/Desktop/C++_Codes/OpenCV_Projects/Chapter_3_Intensity_Transformation_and_Spatial_Filtering -BC:/Users/USER/Desktop/C++_Codes/OpenCV_Projects/Chapter_3_Intensity_Transformation_and_Spatial_Filtering/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/USER/Desktop/C++_Codes/OpenCV_Projects/Chapter_3_Intensity_Transformation_and_Spatial_Filtering/build/CHAPTER-3.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

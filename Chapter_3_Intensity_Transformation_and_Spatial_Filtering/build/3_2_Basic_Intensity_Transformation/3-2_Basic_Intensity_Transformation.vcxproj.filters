@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\USER\Desktop\C++_Codes\OpenCV_Projects\Chapter_3_Intensity_Transformation_and_Spatial_Filtering\3_2_Basic_Intensity_Transformation\image_negative.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\USER\Desktop\C++_Codes\OpenCV_Projects\Chapter_3_Intensity_Transformation_and_Spatial_Filtering\3_2_Basic_Intensity_Transformation\Section_3_2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\USER\Desktop\C++_Codes\OpenCV_Projects\Chapter_3_Intensity_Transformation_and_Spatial_Filtering\3_2_Basic_Intensity_Transformation\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{AF55D9F3-7E70-35A9-9E57-B2CA0064DB90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{AAB5F6EA-AD02-39C1-90CB-6B9C58E1E468}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
