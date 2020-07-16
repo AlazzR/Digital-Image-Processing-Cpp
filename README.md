@@ -18,18 +18,18 @@ In this repository, I tried to dedicate a single project for each chapter in the
          * Piecewise Linear Transformation Functions
            * Contrast Stretching
        * (***Section 3.3***)Histogram Processing
-              * Histogram Equalization
-              * Local Histogram Processing
-              * Using Histogram Statistics For Image Enhancement
+         * Histogram Equalization
+         * Local Histogram Processing
+         * Using Histogram Statistics For Image Enhancement
        * (***Section 3.5***)Smoothing (Low Pass) Spatial Filters
-              * Box Filter Kernels
-              * Low Pass Gaussian Filter Kernels
-              * Order Statistic (Non-Linear) Filters
-                   * Median Filter
+          * Box Filter Kernels
+          * Low Pass Gaussian Filter Kernels
+          * Order Statistic (Non-Linear) Filters
+            * Median Filter
        * (***Section 3.6***)Sharpening (High-Pass) Spatial Filters
-              * Using the Second Derivative For Image Processing- The Laplacian
-              * Difference of Gaussian approximation for Laplacian of Gaussian
-              * Blob Detection using Laplacian of Gaussian and Non-maximum Suppression
+         * Using the Second Derivative For Image Processing- The Laplacian
+         * Difference of Gaussian approximation for Laplacian of Gaussian
+         * Blob Detection using Laplacian of Gaussian and Non-maximum Suppression
 --------------------------------------------------------------------------------------------------------
 **Libraries used for this Repository**
   * ***C++11***:
