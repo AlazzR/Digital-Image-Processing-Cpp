@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\USER\Desktop\C++_Codes\OpenCV_Projects\Chapter_4_Filtering_in_the_Frequency_Domain\Section_4_10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\USER\Desktop\C++_Codes\OpenCV_Projects\Chapter_4_Filtering_in_the_Frequency_Domain\Section_4_6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\USER\Desktop\C++_Codes\OpenCV_Projects\Chapter_4_Filtering_in_the_Frequency_Domain\Section_4_8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\USER\Desktop\C++_Codes\OpenCV_Projects\Chapter_4_Filtering_in_the_Frequency_Domain\Section_4_9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\USER\Desktop\C++_Codes\OpenCV_Projects\Chapter_4_Filtering_in_the_Frequency_Domain\main_file.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\USER\Desktop\C++_Codes\OpenCV_Projects\Chapter_4_Filtering_in_the_Frequency_Domain\Section_4_10_H_.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Desktop\C++_Codes\OpenCV_Projects\Chapter_4_Filtering_in_the_Frequency_Domain\Section_4_9_H_.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Desktop\C++_Codes\OpenCV_Projects\Chapter_4_Filtering_in_the_Frequency_Domain\main_header.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\USER\Desktop\C++_Codes\OpenCV_Projects\Chapter_4_Filtering_in_the_Frequency_Domain\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{87E2C6A2-1111-3F78-989A-AABC90A575F4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0E0662DE-37E1-32ED-9D80-A716B4FAA42E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

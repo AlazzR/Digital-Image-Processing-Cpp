@@ -1,0 +1,14 @@
+﻿  Checking Build System
+  CMake is re-running because C:/Users/USER/Desktop/C++_Codes/OpenCV_Projects/Chapter_4_Filtering_in_the_Frequency_Domain/build/CMakeFiles/generate.stamp is out-of-date.
+    the file 'C:/Users/USER/Desktop/C++_Codes/OpenCV_Projects/Chapter_4_Filtering_in_the_Frequency_Domain/CMakeLists.txt'
+    is newer than 'C:/Users/USER/Desktop/C++_Codes/OpenCV_Projects/Chapter_4_Filtering_in_the_Frequency_Domain/build/CMakeFiles/generate.stamp.depend'
+    result='-1'
+  -- Selecting Windows SDK version 10.0.18362.0 to target Windows 6.3.9600.
+  -- OpenCV ARCH: x64
+  -- OpenCV RUNTIME: vc15
+  -- OpenCV STATIC: OFF
+  -- Found OpenCV 3.4.10 in C:/opencv/build/x64/vc15/lib
+  -- You might need to add C:\opencv\build\x64\vc15\bin to your PATH to be able to run your applications.
+  -- Configuring done
+  -- Generating done
+  -- Build files have been written to: C:/Users/USER/Desktop/C++_Codes/OpenCV_Projects/Chapter_4_Filtering_in_the_Frequency_Domain/build

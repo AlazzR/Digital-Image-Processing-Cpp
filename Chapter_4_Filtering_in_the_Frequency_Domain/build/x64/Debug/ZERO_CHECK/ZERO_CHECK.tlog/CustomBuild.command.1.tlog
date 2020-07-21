@@ -1,0 +1,10 @@
+^C:\USERS\USER\DESKTOP\C++_CODES\OPENCV_PROJECTS\CHAPTER_4_FILTERING_IN_THE_FREQUENCY_DOMAIN\BUILD\CMAKEFILES\43AACDFC4EB4890D4578467636F71C2B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/USER/Desktop/C++_Codes/OpenCV_Projects/Chapter_4_Filtering_in_the_Frequency_Domain -BC:/Users/USER/Desktop/C++_Codes/OpenCV_Projects/Chapter_4_Filtering_in_the_Frequency_Domain/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/USER/Desktop/C++_Codes/OpenCV_Projects/Chapter_4_Filtering_in_the_Frequency_Domain/build/Chapter-4.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
