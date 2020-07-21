@@ -38,17 +38,17 @@ In this repository, I tried to dedicate a single project for each chapter in the
         * Phase Spectrum
           * Effect of Translating the Image
           * Effect of Rotating the Image
-        * (***Section 4.8***)Image Smoothing Using Low-Pass Frequency Domain Filters
-          * Ideal Low Pass Filter
-          * Gaussian Low Pass Filter
-          * Butterworth Low-Pass Filter
-        * (***Section 4.9***)Image Sharpening Using High-Pass Filters
-          * Ideal High Pass Filter
-          * Gaussian High Pass Filter
-          * Butterworth High-Pass Filter
-          * The Laplacian in the Frequency Domain
-        * (***Section 4.10***)Selective Filtering
-          * Butterworth Notch Reject Filter Using Automatic Localization of Interest Points to Suppress
+     * (***Section 4.8***)Image Smoothing Using Low-Pass Frequency Domain Filters
+       * Ideal Low Pass Filter
+       * Gaussian Low Pass Filter
+       * Butterworth Low-Pass Filter
+     * (***Section 4.9***)Image Sharpening Using High-Pass Filters
+       * Ideal High Pass Filter
+        * Gaussian High Pass Filter
+        * Butterworth High-Pass Filter
+        * The Laplacian in the Frequency Domain
+     * (***Section 4.10***)Selective Filtering
+       * Butterworth Notch Reject Filter Using Automatic Localization of Interest Points to Suppress
 --------------------------------------------------------------------------------------------------------
 **Libraries used for this Repository**
   * ***C++11***:
