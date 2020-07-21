@@ -33,7 +33,7 @@ In this repository, I tried to dedicate a single project for each chapter in the
 --------------------------------------------------------------------------------------------------------
 **Libraries used for this Repository**
   * ***C++11***:
-    * OpenCV 4.3.0
+    * OpenCV 3.4.10
     * Eigen 3.3
   * ***CMake 3.18.0-rc1***:
 
