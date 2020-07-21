@@ -33,11 +33,11 @@ In this repository, I tried to dedicate a single project for each chapter in the
    * **Chapter 4: Filtering in the Frequency Domain**
      * (***Section 4.6***)Some Properties of the 2 DFT and IDFT
         * Frequency Spectrum
-          * Translating Image Effect
-          * Rotating Image Effect
+          * Effect of Translating the Image
+          * Effect of Rotating the Image
         * Phase Spectrum
-          * Translating Image Effect
-          * Rotating Image Effect
+          * Effect of Translating the Image
+          * Effect of Rotating the Image
         * (***Section 4.8***)Image Smoothing Using Low-Pass Frequency Domain Filters
           * Ideal Low Pass Filter
           * Gaussian Low Pass Filter
