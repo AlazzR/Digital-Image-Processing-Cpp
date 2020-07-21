@@ -30,6 +30,25 @@ In this repository, I tried to dedicate a single project for each chapter in the
          * Using the Second Derivative For Image Processing- The Laplacian
          * Difference of Gaussian approximation for Laplacian of Gaussian
          * Blob Detection using Laplacian of Gaussian and Non-maximum Suppression
+* **Chapter 4: Filtering in the Frequency Domain**
+       * (***Section 4.6***)Some Properties of the 2 DFT and IDFT
+         * Frequency Spectrum
+           * Translating Image Effect
+           * Rotating Image Effect
+         * Phase Spectrum
+           * Translating Image Effect
+           * Rotating Image Effect
+       * (***Section 4.8***)Image Smoothing Using Low-Pass Frequency Domain Filters
+         * Ideal Low Pass Filter
+         * Gaussian Low Pass Filter
+         * Butterworth Low-Pass Filter
+       * (***Section 4.9***)Image Sharpening Using High-Pass Filters
+         * Ideal High Pass Filter
+         * Gaussian High Pass Filter
+         * Butterworth High-Pass Filter
+         * The Laplacian in the Frequency Domain
+       * (***Section 4.10***)Selective Filtering
+         * Butterworth Notch Reject Filter Using Automatic Localization of Interest Points to Suppress
 --------------------------------------------------------------------------------------------------------
 **Libraries used for this Repository**
   * ***C++11***:
@@ -37,4 +56,4 @@ In this repository, I tried to dedicate a single project for each chapter in the
     * Eigen 3.3
   * ***CMake 3.18.0-rc1***:
 
- 
+
