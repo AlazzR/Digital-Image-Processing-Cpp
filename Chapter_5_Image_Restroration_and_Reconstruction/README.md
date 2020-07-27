@@ -3,4 +3,4 @@ The original images and the resulted images after applying the algorithms of DIP
 
 **Note#1** There are some issues in the reconstructed image by the standard inverse filtering, Wiener filter, and constrained LS filter. I am not sure if the issues were in my implementation or in the PSF, but I highly suspect it is in the PSF itself. I am going to fix these issues later when I have time. ALso, if you ("the reader") found were are the issues, please contact me on LinkedIn to tell me how to fix them.
 
-**Note** I removed AutoPCH from the “.vs” folder, so, you might need to rebuild it using CLI or the GUI version for CMake.
+**Note#2** I removed AutoPCH from the “.vs” folder, so, you might need to rebuild it using CLI or the GUI version for CMake.
