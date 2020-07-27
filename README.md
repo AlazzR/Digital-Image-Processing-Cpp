@@ -50,7 +50,7 @@ In this repository, I tried to dedicate a single project for each chapter in the
      * (***Section 4.10***)Selective Filtering
        * Butterworth Notch Reject Filter Using Automatic Localization of Interest Points to Suppress
 
-   * **Chapter 5: Image Restroration and Reconstruction**
+   * **Chapter 5: Image Restoration and Reconstruction**
      * (***Section 5.2***)Noise Models
         * Gaussian Noise 
         * Rayleigh Noise
