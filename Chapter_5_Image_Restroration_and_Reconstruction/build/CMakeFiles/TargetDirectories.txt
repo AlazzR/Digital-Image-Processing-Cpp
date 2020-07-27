@@ -1,0 +1,4 @@
+C:/Users/USER/Desktop/C++_Codes/OpenCV_Projects/Chapter_5_Image_Restoration_and_Reconstruction/build/CMakeFiles/INSTALL.dir
+C:/Users/USER/Desktop/C++_Codes/OpenCV_Projects/Chapter_5_Image_Restoration_and_Reconstruction/build/CMakeFiles/Chapter-5.dir
+C:/Users/USER/Desktop/C++_Codes/OpenCV_Projects/Chapter_5_Image_Restoration_and_Reconstruction/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/USER/Desktop/C++_Codes/OpenCV_Projects/Chapter_5_Image_Restoration_and_Reconstruction/build/CMakeFiles/ZERO_CHECK.dir

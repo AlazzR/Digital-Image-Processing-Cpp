@@ -1,0 +1,10 @@
+^C:\USERS\USER\DESKTOP\C++_CODES\OPENCV_PROJECTS\CHAPTER_5_IMAGE_RESTORATION_AND_RECONSTRUCTION\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/USER/Desktop/C++_Codes/OpenCV_Projects/Chapter_5_Image_Restoration_and_Reconstruction -BC:/Users/USER/Desktop/C++_Codes/OpenCV_Projects/Chapter_5_Image_Restoration_and_Reconstruction/build --check-stamp-file C:/Users/USER/Desktop/C++_Codes/OpenCV_Projects/Chapter_5_Image_Restoration_and_Reconstruction/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

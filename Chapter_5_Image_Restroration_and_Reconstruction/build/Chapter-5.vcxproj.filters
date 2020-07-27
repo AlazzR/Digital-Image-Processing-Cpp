@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\USER\Desktop\C++_Codes\OpenCV_Projects\Chapter_5_Image_Restoration_and_Reconstruction\Section_5_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\USER\Desktop\C++_Codes\OpenCV_Projects\Chapter_5_Image_Restoration_and_Reconstruction\Section_5_3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\USER\Desktop\C++_Codes\OpenCV_Projects\Chapter_5_Image_Restoration_and_Reconstruction\Section_5_7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\USER\Desktop\C++_Codes\OpenCV_Projects\Chapter_5_Image_Restoration_and_Reconstruction\Section_5_8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\USER\Desktop\C++_Codes\OpenCV_Projects\Chapter_5_Image_Restoration_and_Reconstruction\Section_5_9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\USER\Desktop\C++_Codes\OpenCV_Projects\Chapter_5_Image_Restoration_and_Reconstruction\main_file.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\USER\Desktop\C++_Codes\OpenCV_Projects\Chapter_5_Image_Restoration_and_Reconstruction\Section_5_2_H_.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Desktop\C++_Codes\OpenCV_Projects\Chapter_5_Image_Restoration_and_Reconstruction\Section_5_3_H_.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Desktop\C++_Codes\OpenCV_Projects\Chapter_5_Image_Restoration_and_Reconstruction\Section_5_7_H_.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Desktop\C++_Codes\OpenCV_Projects\Chapter_5_Image_Restoration_and_Reconstruction\Section_5_8_H_.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Desktop\C++_Codes\OpenCV_Projects\Chapter_5_Image_Restoration_and_Reconstruction\Section_5_9_H_.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Desktop\C++_Codes\OpenCV_Projects\Chapter_5_Image_Restoration_and_Reconstruction\main_header.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\USER\Desktop\C++_Codes\OpenCV_Projects\Chapter_5_Image_Restoration_and_Reconstruction\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{1A5C4930-51CE-3971-8063-FDABA9A19B65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{254EDF4D-33C1-39D1-AD41-8CD01B2054A1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
